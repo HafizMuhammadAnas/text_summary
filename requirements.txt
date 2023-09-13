@@ -1,0 +1,8 @@
+openai
+langchain
+tiktoken
+pypdf2
+unstructured
+pandas
+chromadb
+fpdf
